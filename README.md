@@ -57,10 +57,10 @@ Cancel changes
  - 데이터 프레임 생성 
  - excel, csv 파일 불러오기 및 저장
  - mpg 데이터 분석
-  - head, tail, summary, str
+   - head, tail, summary, str
  - 파생변수 (컬럼) 생성
  - 데이터 시각화 
-  - hist(히스토그램) , qplot(빈도 막대 그래프)
+   - hist(히스토그램) , qplot(빈도 막대 그래프)
  - dplyr 함수 
-  - filter (& , | , %in% )
-  - select
+   - filter (& , | , %in% )
+   - select
