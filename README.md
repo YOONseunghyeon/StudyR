@@ -64,3 +64,20 @@ Cancel changes
  - dplyr 함수 
    - filter (& , | , %in% )
    - select
+
+
+
+### 6일차
+ - dplyr 함수 
+   - arrange(desc)
+   - mutate ( ifelse 적용)
+   - summarize (n=n())
+   - group_by
+   - left join
+   - bind_rows
+ - 데이터 정제
+   - 결측지 (Missing Value)
+   - 이상치 (결측치로 처리)
+ - ggplot2 함수
+   - 산점도 ( geom_point() ) , 축 범위 조정 (aes(x =,y=,))
+   - 막대그래프 ( geom_col() ) 
