@@ -81,3 +81,13 @@ Cancel changes
  - ggplot2 함수
    - 산점도 ( geom_point() ) , 축 범위 조정 (aes(x =,y=,))
    - 막대그래프 ( geom_col() ) 
+
+### 7일차
+ - 시계열 그래프( geom_line() )
+ - 데이터 분석 프로젝트 ( "foreign")
+   - SPSS 파일 불러오기
+   - 변수검토
+   - 전처리
+   - 변수 간 관계 분석
+   - 그래프 만들기
+ - 텍스트 마이닝
