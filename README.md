@@ -91,3 +91,28 @@ Cancel changes
    - 변수 간 관계 분석
    - 그래프 만들기
  - 텍스트 마이닝
+
+### 8일차
+ - WordCloud 설치 및 응용
+  - 데이터 전처리
+  - 문자열 추출
+ - KONLP 설치 및 실행
+ - rJava 설치 및 연동
+ - 단계구분도 (ggiraphExtra) 패키지 설치 및 응용
+  - 인터렉티브 단계 구분도
+  - devtools::install_github("cardiomoon/kormaps2014")
+
+### 9일차
+- 인터랙티브 그래프 (plotly,dygraphs)
+ - 인터랙티브 막대 그래프 생성
+ - 인터랙티브 산점도 그래프 생성
+ - 인터랙티브 시계열 그래프 생성 
+- 오라클 연동 (RJDBC)
+ - 오라클 접속
+ - 계정생성, 삭제, 권한
+ - 데이터 입력, 수정, 삭제
+- 웹 스크래핑( rvest, stringr)
+ - 웹 문서 불러오기
+ - 데이터 추출 및 정제, csv화
+-오픈API Url
+ -  공공데이터 api_url 데이터화
